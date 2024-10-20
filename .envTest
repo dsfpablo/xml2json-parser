@@ -1,0 +1,6 @@
+MONGODB_URI=mongodb+srv://test:xmlParserTest@cluster0.b0tsm.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0
+DB_USER=test
+DB_PASS=xmlParserTest
+
+MAKES_API_URL=https://vpic.nhtsa.dot.gov/api/vehicles/getallmakes
+MAKE_TYPES_API_URL=https://vpic.nhtsa.dot.gov/api/vehicles/GetVehicleTypesForMakeId

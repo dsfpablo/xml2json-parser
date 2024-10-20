@@ -30,3 +30,4 @@ node_modules/
 .env.local
 
 *.DS_Store
+pnpm-lock.yaml
